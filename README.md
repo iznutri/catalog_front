@@ -1,2 +1,2 @@
-# catalog_front
+# catalog frontend
 catalog_front
